@@ -1,0 +1,34 @@
+id: deb20120f5ee4e5c94be96562de73b72
+annotation_type: Segment
+revision: '00001'
+annotations:
+  d465ced00cdf4bb89aff46b7f3ad7831:
+    span:
+      start: 0
+      end: 53
+    metadata: {}
+  5576a99202124794becb4861786ae5ef:
+    span:
+      start: 55
+      end: 2313
+    metadata: {}
+  c195c9fc735b43d68032c1f3a6c9b836:
+    span:
+      start: 2315
+      end: 2380
+    metadata: {}
+  cf8c573f3c06452e842b33b7f5a9406e:
+    span:
+      start: 2382
+      end: 2416
+    metadata: {}
+  2dfc668ce9fc41db87d4b4d0db0470bb:
+    span:
+      start: 2418
+      end: 2595
+    metadata: {}
+  36ebe0f0fe72436ebb3a21d31adf2e1b:
+    span:
+      start: 2597
+      end: 2618
+    metadata: {}
